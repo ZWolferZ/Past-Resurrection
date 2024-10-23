@@ -1,0 +1,15 @@
+Images:
+Backgrounds/Menus (Made myself with assets from Canva) - https://www.canva.com/
+UI (Made myself with assets from Canva) - https://www.canva.com/
+Crosshair - https://void1gaming.itch.io/free-mega-crosshairs-pack
+Character - https://free-game-assets.itch.io/free-3-character-sprite-pixel-art
+Enemy Flyer - https://xzany.itch.io/flying-demon-2d-pixel-art
+
+Sounds (All sourced from freesound):
+Swap Sound - https://freesound.org/people/SomeGuy22/sounds/519005/
+Menu Select 1 - https://freesound.org/people/pumodi/sounds/150222/
+Menu Select 2 - https://freesound.org/people/Fupicat/sounds/471937/
+Bullet Sound - https://freesound.org/people/Joao_Janz/sounds/478328/
+Reload Sound - https://freesound.org/people/Soundholder/sounds/425334/
+Gun Swap Sound - https://freesound.org/people/ryusa/sounds/531145/
+Shotgun Sound - https://freesound.org/people/DTheTech/sounds/734057/

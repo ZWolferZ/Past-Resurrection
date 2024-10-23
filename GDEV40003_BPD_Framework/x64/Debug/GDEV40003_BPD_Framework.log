@@ -1,0 +1,57 @@
+﻿  Audio.cpp
+  Bullet.cpp
+  Character.cpp
+  Collisions.cpp
+  Crosshair.cpp
+  EnemyFlyers.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\EnemyFlyers.cpp(291,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  EnemyGround.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\EnemyGround.cpp(138,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  GameObject.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameObject.cpp(68,87): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameObject.cpp(68,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  GameScreen.cpp
+  GameScreenControls.cpp
+  GameScreenLevel1.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(329,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(329,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(328,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(328,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(335,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(335,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(334,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel1.cpp(334,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameScreenLevel2.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(318,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(318,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(317,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(317,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(324,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(324,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(323,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel2.cpp(323,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameScreenLevel3.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(317,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(317,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(316,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(316,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(323,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(323,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(322,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\GameScreenLevel3.cpp(322,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameScreenMainMenu.cpp
+  GameScreenManager.cpp
+  GameScreenOver.cpp
+  GameScreenUpgrade.cpp
+  GameText.cpp
+  GlobalGameStates.cpp
+  main.cpp
+  Generating Code...
+  Compiling...
+  Texture2D.cpp
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\Texture2D.cpp(69,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\Texture2D.cpp(69,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\Texture2D.cpp(69,57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ryanm\Documents\GitHub\Past Resurrection\GDEV40003_BPD_Framework\Texture2D.cpp(69,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  GDEV40003_BPD_Framework.vcxproj -> C:\Users\ryanm\Documents\GitHub\Past Resurrection\x64\Debug\GDEV40003_BPD_Framework.exe
